@@ -1,0 +1,14 @@
+body { background-color: rgb(224, 200, 167); 
+    font-family: Arial, Helvetica, sans-serif;}
+    
+    #container{
+    width: 70%;
+    margin: 0px auto;
+    border: beige;
+    }
+    
+    header{
+        background-color: brown;
+        height: 100px;
+        width: 100%;
+    }
